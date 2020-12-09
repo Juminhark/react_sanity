@@ -11,7 +11,8 @@
 > sanity init
 
 // client
-> npm i @sanity/client react-router-dom react-social-icons
+> npm i @sanity/client @sanity/image-url @sanity/block-content-to-react
+> npm i react-router-dom react-social-icons
 ```
 
 ## reference
